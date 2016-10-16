@@ -9,7 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bluebird": "^3.4.6",
+    "dotenv": "^2.0.0",
     "feedparser": "^1.1.5",
+    "lodash": "^4.16.4",
+    "nodemailer": "^2.6.4",
     "request": "^2.75.0"
   }
 }
